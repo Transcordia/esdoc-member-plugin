@@ -1,7 +1,7 @@
 {
   "name": "esdoc-property-plugin",
   "version": "1.0.0",
-  "description": "A plugin that properly reports getter/setter properties as a single member variable",
+  "description": "An ESDoc plugin that properly reports getter/setter properties as a single member variable",
   "author": "oravecz",
   "homepage": "https://github.com/Transcordia/esdoc-property-plugin",
   "license": "MIT",
