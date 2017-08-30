@@ -1,13 +1,13 @@
 {
-  "name": "esdoc-property-plugin",
+  "name": "esdoc-member-plugin",
   "version": "1.0.0",
   "description": "An ESDoc plugin that properly reports getter/setter properties as a single member variable",
   "author": "oravecz",
-  "homepage": "https://github.com/Transcordia/esdoc-property-plugin",
+  "homepage": "https://github.com/Transcordia/esdoc-member-plugin",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Transcordia/esdoc-property-plugin"
+    "url": "https://github.com/Transcordia/esdoc-member-plugin"
   },
   "devDependencies": {
     "esdoc": "latest",
@@ -22,7 +22,7 @@
   },
   "keywords": [
     "esdoc",
-    "property",
+    "member",
     "plugin"
   ],
   "files": [
