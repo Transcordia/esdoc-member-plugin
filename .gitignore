@@ -1,0 +1,6 @@
+node_modules/
+docs/
+esdoc.json
+*.iml
+.idea/
+test/out/
